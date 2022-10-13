@@ -1,4 +1,3 @@
-const { Decipher } = require("crypto");
 
 document.getElementById('hablar').addEventListener("click",()=>{decir(document.getElementById("texto").value);
 });
